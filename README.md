@@ -27,8 +27,8 @@ Map Visualization in Jersey City, New Jersey:
 
  	 
 
-I used
-Microsoft Excels
+to complete the analysis i used
+Microsoft Excel and 
 Tableau
 
 
