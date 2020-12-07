@@ -1,9 +1,9 @@
-Citi-Bike-Analytics
+#Citi-Bike-Analytics
 By
 Aakash Rahman
 
  
-Click here to see the visualities in Tableau
+Click below link to see the visualities in Tableau
 
 https://public.tableau.com/profile/aakash.rahman#!/vizhome/TableauHW-City-Bike-Analytics-Aakash/CitiBikeAnalyst
  
@@ -12,12 +12,9 @@ Data Source: https://www.citibikenyc.com/system-data
 The Analysis for Citi Bike program in which responsible for overseeing the largest bike sharing program for 100,000+ data points in the United States in order to generate business insights in terms of visualize the peak time in both summer and winter period and the top start location in Jersey City, New Jersey. 
 I used Jersey City, NJ locations
 
-Below are few visualizations:
- 	 
+Below are few visualizations: 
 
-
- 	 
-	
+ 	
 
 During the analysis, I found the current major Citi-Bike riders fall into young male group between 18 -20 but number of female raiders increases over time as they are showing interest to start riding during the weekend.
  	 
